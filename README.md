@@ -1,7 +1,5 @@
 # Snippet Plugin for Neovim
 
-[[_TOC_]]
-
 ## About the Project
 This project is part of the module "fprod" at the FHNW in Burgg/Windisch.
 The plugin makes it possible to easily save text or code snippets and to plot 
